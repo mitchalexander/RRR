@@ -1,2 +1,2 @@
 # RRR
-Google Earth Engine scripts used for the final project of my MSGIS 
+Scripts used in a MSGIS final project.
